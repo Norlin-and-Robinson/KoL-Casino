@@ -1,0 +1,32 @@
+.navbarLink {
+}
+
+#pageTitle {
+}
+
+#header {
+	position: absolute;
+	height: 120px;
+	margin-top: 0px;
+	width: 100%;
+	font-size: 400%;
+	text-align: center;
+	padding-top: 25px;
+}
+
+#navColumn {
+	position: absolute;
+	margin-left: 25px;
+	margin-top: 120px;
+	width: 80px;
+	border: 2px solid blue;
+	border-left: 0px;
+	font-size: large;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#contentColumn {
+	position: absolute;
+	margin: 120px 30px 50px 125px;
+}
