@@ -1,7 +1,7 @@
 <nav><ul>
 <?php
 
-// An 2D array of pages and their paths
+// A 2D array of pages and their paths
 $pages = array(
     array('Home', '/index.php'),
     array('Sign Up', '/signup.php'),
