@@ -36,6 +36,22 @@ footer {
 	width: 800px;
 }
 
+#titleImg1 {
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 210px;
+	height: 100px;
+	width: 100px;
+}
+
+#titleImg2 {
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 644px;
+	height: 100px;
+	width: 100px;
+}
+
 #wrapper {
 	margin-left: auto;
 	margin-right: auto;

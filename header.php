@@ -6,4 +6,6 @@
 </head>
 <body>
 <div id="wrapper">
+<img src="wheel.gif" id="titleImg1" alt="Wheel" />
+<img src="cards.gif" id="titleImg2" alt="Cards" />
 <header>KoL Casino</header>
