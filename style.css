@@ -1,5 +1,11 @@
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
 header {
-    position: absolute;
+    float: left;
     height: 120px;
     margin-top: 0px;
     margin-right: auto;
@@ -11,29 +17,21 @@ header {
 }
 
 nav {
-    position: absolute;
-    margin-left: 25px;
-    margin-top: 120px;
+    float: left;
     width: 110px;
     border: 2px solid blue;
-    border-left: 0px;
     font-size: large;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 footer {
-    position: absolute;
+    float: right;
     width: 960px;
-    margin-bottom: 0px;
+    text-align: center;
 }
 
 #main {
-    position: absolute;
-    margin-right: 25px;
-    margin-left: 160px;
-    margin-top: 120px;
-    width: 800px;
+    float: right;
+    width: 830px;
 }
 
 #titleImg1 {
@@ -50,10 +48,4 @@ footer {
     margin-left: 644px;
     height: 100px;
     width: 100px;
-}
-
-#wrapper {
-    margin-left: auto;
-    margin-right: auto;
-    width: 960px;
 }
