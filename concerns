@@ -1,4 +1,0 @@
-This file is for concerns / questions we have while working on the project.
-index.html
-	Should the doctype be changed? What difference does it make?
-	I wanted to add images next to the title, but I couldn't center only specific images very well. Perhaps I should enclose the title in a font tag and the images in paragraph tags? From what I have read recently it seems that using tables is just an html hack.
