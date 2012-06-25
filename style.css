@@ -1,10 +1,4 @@
-.navbarLink {
-}
-
-#pageTitle {
-}
-
-#header {
+header {
 	position: absolute;
 	height: 120px;
 	margin-top: 0px;
@@ -14,7 +8,7 @@
 	padding-top: 25px;
 }
 
-#navColumn {
+nav {
 	position: absolute;
 	margin-left: 25px;
 	margin-top: 120px;
@@ -26,7 +20,7 @@
 	padding-bottom: 10px;
 }
 
-#contentColumn {
+#main {
 	position: absolute;
 	margin: 120px 30px 50px 125px;
 }
